@@ -1,0 +1,1 @@
+To insert localized sample text in Word, type =rand() in the document where you want the text to appear, and then press ENTER. The sample text that is inserted for the English version of Word resembles the following text: Video provides a powerful way to help you prove your point.
